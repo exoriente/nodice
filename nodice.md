@@ -56,7 +56,7 @@ This is a general skill used for any aspect of life not included in the other sk
 
 ### Resolution
 
-The combatant with the highest score wins. If the difference between the combat levels is three or more the combat is resolved at the end of the round. If the difference is less than three, the combat is resolved at the end of the scene. Such a situation is called *combat lock* and the combatants cannot disengage without risking life and limb. Combat lock is resolved only at the end of combat or when other characters intervne or other events influencing the balance. Then the situation is evaluated anew.
+The combatant with the highest score wins. If the difference between the combat levels is three or more the combat is resolved at the end of the same round. If the difference is less than three, the combat is resolved at the end of the scene. Such a situation is called *tied combat* and the combatants cannot disengage without risking life and limb. Combat lock is resolved only at the end of combat or when other characters intervne or other events influencing the balance. Then the situation is evaluated anew.
 
 ### Ganging up
 
@@ -92,8 +92,8 @@ If outclassed the target is defeated in the same round. If the attacker and defe
 
 Spend a save point to ignore the consequences of an attack. This will allow you to:
 
-- Ignore a critical attack
-- Retreat from combat lock
+- Ignore a critical attack and escape
+- Escape from tied combat
 - Ignore suppresive fire
 
 ### Defeat
