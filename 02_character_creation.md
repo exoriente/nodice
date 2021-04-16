@@ -10,9 +10,13 @@ Main skill is equal to level. Rest is equal to half level, rounded down.
 - Interaction : Bard
 - Proficiency
 
+## Stealth
+
+This skills includes moving silently and unseen, climbing walls, picking locks, picking pockets, acrobatics, setting traps and more. It also covers the opposites of these skills: avoiding and dismantling traps, detecting others using stealth as well as guarding and keeping watch.
+
 ## Magic
 
-Only wizards can use magic. Other characters still have magic levels equal to half their character level, but use that only to compare against a wizards power when resisting magic or defending against it.
+Only wizards can use magic. Other characters still have magic levels equal to half their character level, but use that only to compare against a wizard's power when resisting magic or defending against it.
 
 ## Proficiency
 

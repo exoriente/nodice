@@ -50,7 +50,7 @@ You are trained to wear and exploit light armor in combat. Up to +2 on combat wh
 
 ### Defender
 
-You are capable of defending your allies in combat. If you and 
+You are capable of defending your allies in combat. You can force one additional combatant into combat with you if you have a higher combat level. This allows you to prevent others from being attacked by making yourself the focus of combat.
 
 ## Sharpened senses
 

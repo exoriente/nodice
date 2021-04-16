@@ -2,7 +2,20 @@
 
 ## Resolution
 
-The combatant with the highest score wins. If the difference between the combat levels is three or more the combat is resolved at the end of the same round. If the difference is less than three, the combat is resolved at the end of the scene. Such a situation is called *tied combat* and the combatants cannot disengage without risking life and limb. Combat lock is resolved only at the end of combat or when other characters intervne or other events influencing the balance. Then the situation is evaluated anew.
+The combatant with the highest score wins. If the difference between the combat levels is three or more the combat is resolved at the end of the same round. If the difference is less than three, the combat is resolved at the end of the scene. Such a situation is called *prolonged combat* and the combatants cannot disengage without risking life and limb. Combat lock is resolved only at the end of combat or when other characters intervne or other events influencing the balance. Then the situation is evaluated anew.
+
+### Pressing back
+
+Often, during prolonged combat, the combatant with the lower combat level is driven backwards by their attacker. Whether or not this happens is up to the combatant with the highest score. They can decide to press their opponent back or not. If they do, each round of combat will move the combatant with the upper hand 5 feet forward and forces their opponent back 5 feet. This continues until the balance of combat changes or until the underdog cannot be pressed back further due to reaching a wall or other obstacle. Fighting with their back against a wall will give a combatant a combat penalty, so when this happens, it might trigger immediate resolution, if this means the underdog becomes outclassed.
+
+Driving combatants back is possible in ganging up scenarios. Multiple warrior might drive a dangerous moster back, or the other way around. Whether driving back is possible is up to the storyteller.
+
+If big creatures are involved the distance driven back may be scaled up to match the size of the combatants with the upper hand.
+
+### Bonuses and penalties
+
+- `-1` : Fighting with your back to a wall or other obstacle
+- `-2` : Fighting with your back to a precipice or similarly dangerous feature of your environment
 
 ## Ganging up
 
@@ -41,6 +54,36 @@ Spend a save point to ignore the consequences of an attack. This will allow you 
 - Ignore a critical attack and escape
 - Escape from tied combat
 - Ignore suppresive fire
+
+## Complications
+
+### Pairing up
+
+In most cases it will be obvious to all players which combatants are fighting who and how to compare their combat levels. But in some cases this can get complicated, if combatants are attacking one another in complicated configurations.
+
+For example:
+
+- The fimir wants to attack the barbarian
+- The barbarians want to attack the orc, to protect the wizard
+- The orc wants to attack the wizard
+- The wizard is just trying to defend herself
+
+So are the barbarian and the wizard ganging up on the orc? Or is the orc, since it must defend against the barbarian, forced to fight him and effectively ganging up with the fimir?
+
+To resolve these and more complicated situations assign pairs by order of highest combat level first. This can force combatants to face opponents they do not prefer to fight.
+
+To continue the example, the first combat pairing is decided by the barbarian, who has the highest combat level in this case (4). He means to attack the orc, who has combat level 2, so the orc is pulled into combat by the barbarian and does not get to pick his fight.
+
+The fimir is next at combat level 3. Because they want to kill the barbarian, the fimir is ganging up with the orc on the barbarian.
+
+The orc does not get to choose, being forced into defending himself against the barbarian's onslaught.
+
+The wizard, with combat level 1, lends a hand by attacking the orc. This means she is joining the fight on the barbarian's side.
+
+So effectively it's the orc and the fimir together against the combined force of the wizard and the...
+
+[TODO]
+
 
 ## Defeat
 
