@@ -26,6 +26,26 @@ A throw-away character that is typically not named and has no long term relevanc
 
 Compared levels are three or more apart
 
+## Major Advantage
+
+Your level is three or more higher than opposing.
+
+## Minor advantage
+
+Your level is one or two higher than opposing.
+
+## Equal advantage
+
+Opposed levels are same height.
+
+## Minor disadvantage
+
+Your level is one or two lower than opposing.
+
+## Major disadvantage
+
+Your level is three or more lower than opposing.
+
 ## Measuring up
 
 Compared levels are less than three apart

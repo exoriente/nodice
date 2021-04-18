@@ -34,6 +34,10 @@ These powers can be selected at character creation only.
 
 Choose a biome. All wilderness related abilities are at character level, instead of proficiency level.
 
+### Signature craft
+
+Choose craft: use level instead of proficiency
+
 ---
 
 ## Combat feats

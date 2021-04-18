@@ -1,5 +1,18 @@
 # Stealth
 
+## New idea
+
+- Major advantage: pass effortlessly
+- Minor advantage: slow pass but alert level / suspicion of guards is raised, increasing difficilty next time
+- Equal advantage / minor disadvantage: no pass, slow retreat possible, alert / suspicion raised
+- Major disadvantage: immediate detection
+
+### Increased alertness / suspicion
+
+Can be bonus to detection +1 or +2
+
+Can also mean measures: more patrols, closing gates etc.
+
 ## General rule
 
 The outcome of an attempt at stealth is determined by comparing the stealth levels of characters or comparing a character's stealth level to a stealth difficulty level as posed by traps, locks or other devices.

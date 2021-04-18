@@ -84,6 +84,45 @@ So effectively it's the orc and the fimir together against the combined force of
 
 [TODO]
 
+## Using weapons and armor
+
+Weapons and armor can give great advantage in combat if combined with the right training on how to use them. This counts not only for weapons, but also for armor. Exploiting armor effectively in combat requires knowledge, skill and training. Even without such training having at least some weapon is critical when fighting armed opponents.
+
+- `-3` : Unarmed and opposed by at least one armed opponent
+
+Wearing armor does count as being armed and does not negate this penalty. If you are fighting multiple opponents at the same time, only one of them needs to be armed for you to suffer this penalty.
+
+Note that this penalty does not extend to all unarmed combatants in the same fight. Other opponents that are unarmed will not suffer this penalty just because they are fighting side by side with an armed ally. Only if they face an armed opponent themselves will it go into effect.
+
+This penalty can be prevented by wielding any weapon that can be used to parry or keep an enemy at distance.
+
+- `+0` : Using light weapon (dagger, short sword, hand axe)
+
+### Weapon and armor bonuses
+
+Heavy weapons designed for killing, or at least maiming, present and advantage in combat, so does wearing armor and using shields. They following bonuses reflect this advantage. However, they can only be used fully by trained warriors.
+
+- `+1` : Using one heavy weapon (sword, axe, spear, etc) 
+- `+2` : Using two-handed weapon
+- `+1` : Using two light weapons
+- `+2` : Using two weapons, at least one heavy
+- `+1` : Using shield
+- `+1` : Wearing light armor
+- `+2` : Wearing heavy armor
+
+If you are not trained in any way, you cannot get more that a +1 bonuses for any of the above advantages.
+
+If you are trained for any of them, you can apply those when appropriate. Any additional advantage that applies, but that you are not trained for can give you an additional +1 at most.
+
+Examples:
+
+> Princess Vulnera wants to pull her weight in the defense of kingdom. She puts on leather armor (`+1`), takes a long sword (`+1`) and a shield (`+1`) and joins the ranks of battle, without being trained on how to us any of them. She gets a total combat bonus of only `+1`.
+
+> Croogrin the goblin is trained to fight with a spear (`+1`) and shield (`+1`). He readies himself to fight the troll that has been invading his territory and puts on the only armor he can find. A heavy chain mail suit (`+2`). Since he has `heavy weapon training` and `shield training` he can get a `+2` bonus to his combat level. But since he does not have `heavy armor training` the chain mail and any other equipment advantage can give him at most an additional `+1` bonus. His total combat bonus is `+3`.
+
+## Other bonuses
+
+- `+3` : Surprise attack from behind
 
 ## Defeat
 
@@ -113,3 +152,9 @@ Possible complications:
 - There are no supplies available to sufficiently treat the character
 
 These and other complication can be introduced by the storyteller if he considers them worthwhile additions to the story.
+
+### Death
+
+Happens to extras all the time.
+
+Main cast death should always be a special event.
