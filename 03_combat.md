@@ -120,6 +120,14 @@ Examples:
 
 > Croogrin the goblin is trained to fight with a spear (`+1`) and shield (`+1`). He readies himself to fight the troll that has been invading his territory and puts on the only armor he can find. A heavy chain mail suit (`+2`). Since he has `heavy weapon training` and `shield training` he can get a `+2` bonus to his combat level. But since he does not have `heavy armor training` the chain mail and any other equipment advantage can give him at most an additional `+1` bonus. His total combat bonus is `+3`.
 
+### Attacks ignoring armor
+
+This rule plays well with ganging up rules:
+
+- A character using an attack that is not affected by armor gets a bonus equal to the armor bonus of the target.
+
+This way the right comparison is made even when ganging up.
+
 ## Other bonuses
 
 - `+3` : Surprise attack from behind
