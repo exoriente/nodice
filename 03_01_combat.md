@@ -51,7 +51,7 @@ If outclassed the target is defeated in the same round. If the attacker and defe
 
 Spend a save point to ignore the consequences of an attack. This will allow you to:
 
-- Ignore a critical attack and escape
+- Ignore an attack with major advantage
 - Escape from tied combat
 - Ignore suppresive fire
 
@@ -144,7 +144,7 @@ This way the right comparison is made even when ganging up.
 
 ### Wounded
 
-A wounded character has suffered a significant injury. It requires attention and deserves story time to deal with it. Until the injury has healed or has been statisfactorilly treated a character is typically out of action, but might still interact socially.
+A wounded character has suffered a significant injury. It requires attention and deserves story time to deal with it. Until the injury has healed or has been statisfactorily treated a character is typically out of action, but might still interact socially.
 
 If a lead character has been wounded, the situation can be resolved by playing out three scenes that revolve around the situation, preferably involving three separate PCs. Examples:
 

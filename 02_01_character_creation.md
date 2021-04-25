@@ -1,7 +1,5 @@
 # Classes
 
-Main skill is equal to level. Rest is equal to half level, rounded down.
-
 | Class     | Combat | Magic | Stealth | Interaction | Proficiency | Extra |
 |-----------|:------:|:------:|:------:|:------:|:------:|--------|
 | Fighter   | 1      |        | 1/3    | 2/3    | 1/2    | commander |

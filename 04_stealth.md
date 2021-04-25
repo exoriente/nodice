@@ -4,7 +4,7 @@
 
 - Major advantage: pass effortlessly
 - Minor advantage: slow pass but alert level / suspicion of guards is raised, increasing difficilty next time
-- Equal advantage / minor disadvantage: no pass, slow retreat possible, alert / suspicion raised
+- Draw / minor disadvantage: no pass, slow retreat possible, alert / suspicion raised
 - Major disadvantage: immediate detection
 
 ### Increased alertness / suspicion

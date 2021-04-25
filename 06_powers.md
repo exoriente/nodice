@@ -72,7 +72,7 @@ You are trained in fighting with two weapons at the same time. When you wield tw
 
 You are capable of defending your allies in combat. You can force one additional combatant into combat with you if you have a higher combat level. This allows you to prevent others from being attacked by making yourself the focus of combat.
 
-#### Killing machine
+#### One man army
 
 You can take care of two opponents per round if you outclass them
 
@@ -84,6 +84,10 @@ You can take care of two opponents per round if you outclass them
 
 ## Stealth feats
 
+#### Sharp senses
+
+Detection and alertness checks are at character level.
+
 ---
 
 ## Miscellaneous feats
@@ -91,7 +95,3 @@ You can take care of two opponents per round if you outclass them
 #### Healer
 
 You can heal the wounded and treat the sick
-
-#### Sharpened senses
-
-Detection and alertness checks are at character level.

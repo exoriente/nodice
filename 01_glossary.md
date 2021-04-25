@@ -1,12 +1,8 @@
 # Glossary
 
-## Player character
+## Extra
 
-A character played by a dedicated player. Normally each player, except for the storyteller, plays one player character exclusively.
-
-## Non-player character
-
-Character played by the storyteller (even though they are also playing). Typically supporting cast or extras, but important non-player characters can be part of the lead cast as well.
+A throw-away character that is typically not named and has no long term relevance in the story past a scene or session. Enemy hordes, anonymous henchmen, innocent bystanders and the like are typically extras. Combat rules are simplified to handle larger numbers of extras more easily.
 
 ## Lead character
 
@@ -18,13 +14,13 @@ An important character in the story that has a name and is intended to feature i
 
 The pricipal characteristic of main cast is that they follow the same rules as player characters with respect to save points and combat.
 
-## Extra
+## Non-player character
 
-A throw-away character that is typically not named and has no long term relevance in the story past a scene or session. Enemy hordes, anonymous henchmen, innocent bystanders and the like are typically extras. Combat rules are simplified to handle larger numbers of extras more easily.
+Character played by the storyteller (even though they are also playing). Typically supporting cast or extras, but important non-player characters can be part of the lead cast as well.
 
-## Outclassing
+## Player character
 
-Compared levels are three or more apart
+A character played by a dedicated player. Normally each player, except for the storyteller, plays one player character exclusively.
 
 ## Major Advantage
 
@@ -34,7 +30,7 @@ Your level is three or more higher than opposing.
 
 Your level is one or two higher than opposing.
 
-## Equal advantage
+## Draw
 
 Opposed levels are same height.
 
@@ -45,7 +41,3 @@ Your level is one or two lower than opposing.
 ## Major disadvantage
 
 Your level is three or more lower than opposing.
-
-## Measuring up
-
-Compared levels are less than three apart
