@@ -132,6 +132,10 @@ This way the right comparison is made even when ganging up.
 
 - `+3` : Surprise attack from behind
 
+## Kill threat
+
+Happens when knife is held at throat, enough archers are aiming at character, etc. More of a story device that a combat situation, but combat can end with a kill threat if someone gets in a position for it. Level of the threatening force must be high enough relative to threatened character (at least half)?
+
 ## Defeat
 
 ### Consequences of losing in a fight
