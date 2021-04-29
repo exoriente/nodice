@@ -4,6 +4,48 @@
 
 These powers can be selected at character creation only.
 
+### Large
+
+*Me kill little human*
+
+You are of a race larger and stronger than a demihuman. +1 on melee combat.
+
+You are as strong as a demihuman that has the `strong` power, unless you also have the `strong` power, making you relatively strong even for your size.
+
+-1 on melee combat in cramped spaces
+
+### Fast
+
+*You call that running?*
+
+You can cover more ground in a combat round and you can easily catch up with anyone who is not fast, reach things before they do or escape without them catching up.
+
+### Stealth boost
+
+*Guess who?*
+
+You are naturally adept at stealth. Your base stealth skill is higher. The exact level depends on your class stealth skill.
+
+| Class stealth level | Boosted stealth level |
+|:----:|:--------:|
+| x0   | x1/3     |
+| x1/3 | x1/2     |
+| x1/2 | x2/3     |
+| x2/3 | x2/3 + 2 |
+| x1   | x1 + 2   |
+
+### Natural weapons
+
+*Rawr!*
+
+Your body has natural weapons, such as claws and teeth, that are significantly more lethal than those of a typical demihuman. If you use them without additional weapons against an armed opponent, your penalty is -1 instead of -3. You can also readily wound and kill people in unarmed combat.
+
+### Enhanced smell
+
+*You can smell everyting... for better or worse*
+
+You have a nose like a blood hound. This gives you a +2 bonus on tracking, detecting stealth and to negate the penalty of acting in the dark.
+
 ### Strong
 
 +1 on melee combat
