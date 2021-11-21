@@ -8,7 +8,7 @@ The combatant with the highest score wins. If the difference between the combat 
 
 Often, during prolonged combat, the combatant with the lower combat level is driven backwards by their attacker. Whether or not this happens is up to the combatant with the highest score. They can decide to press their opponent back or not. If they do, each round of combat will move the combatant with the upper hand 5 feet forward and forces their opponent back 5 feet. This continues until the balance of combat changes or until the underdog cannot be pressed back further due to reaching a wall or other obstacle. Fighting with their back against a wall will give a combatant a combat penalty, so when this happens, it might trigger immediate resolution, if this means the underdog becomes outclassed.
 
-Driving combatants back is possible in ganging up scenarios. Multiple warrior might drive a dangerous moster back, or the other way around. Whether driving back is possible is up to the storyteller.
+Driving combatants back is possible in ganging up scenarios. Multiple warriors might drive a dangerous monster back, or the other way around. Whether driving back is possible is up to the storyteller.
 
 If big creatures are involved the distance driven back may be scaled up to match the size of the combatants with the upper hand.
 
@@ -19,7 +19,7 @@ If big creatures are involved the distance driven back may be scaled up to match
 
 ## Ganging up
 
-If multiple assailants fight against a single foe, their effective combat level is based on combat level of the strongest in the group. Each additional combatant increases the combat level by one. If this results in an opponent being defeated, the attacker with the highest combat level typically deals the final blow.
+If multiple assailants fight against a single foe, their effective combat level is based on the combat level of the strongest in the group. Each additional combatant increases the combat level by one. If this results in an opponent being defeated, the attacker with the highest combat level typically deals the final blow.
 
 ## Missile combat
 
@@ -38,7 +38,7 @@ If the combined combat level is three or more higher that the target's combat le
 
 ### Firing on a target that is not in combat
 
-If outclassed the target is defeated in the same round. If the attacker and defender measure up the attack effectively becomes suppresive fire. The target must block the projectile or take cover and loses his action that round. If the target outclasses the attacker, they can ignore the missile attack completely. Suppresive fire can stop the target from moving, casting spells or take any other action. When under fire you can still fire back, attack another target, or take cover. Cover might decrease the attackers effective missile combat skill enough to allow you to ignore his attack.
+If outclassed the target is defeated in the same round. If the attacker and defender measure up the attack effectively becomes suppressive fire. The target must block the projectile or take cover and loses his action that round. If the target outclasses the attacker, they can ignore the missile attack completely. Suppressive fire can stop the target from moving, casting spells or take any other action. When under fire you can still fire back, attack another target, or take cover. Cover might decrease the attackers effective missile combat skill enough to allow you to ignore his attack.
 
 ### Cover
 
@@ -53,7 +53,7 @@ Spend a save point to ignore the consequences of an attack. This will allow you 
 
 - Ignore an attack with major advantage
 - Escape from tied combat
-- Ignore suppresive fire
+- Ignore suppressive fire
 
 ## Complications
 
@@ -86,7 +86,7 @@ So effectively it's the orc and the fimir together against the combined force of
 
 ## Using weapons and armor
 
-Weapons and armor can give great advantage in combat if combined with the right training on how to use them. This counts not only for weapons, but also for armor. Exploiting armor effectively in combat requires knowledge, skill and training. Even without such training having at least some weapon is critical when fighting armed opponents.
+Weapons and armor can give great advantage in combat if combined with the right training in how to use them. This counts not only for weapons, but also for armor. Exploiting armor effectively in combat requires knowledge, skill and training. Even without such training having at least some weapon is critical when fighting armed opponents.
 
 - `-3` : Unarmed and opposed by at least one armed opponent
 
@@ -100,7 +100,7 @@ This penalty can be prevented by wielding any weapon that can be used to parry o
 
 ### Weapon and armor bonuses
 
-Heavy weapons designed for killing, or at least maiming, present and advantage in combat, so does wearing armor and using shields. They following bonuses reflect this advantage. However, they can only be used fully by trained warriors.
+Heavy weapons designed for killing, or at least maiming, present an advantage in combat, so does wearing armor and using shields. They following bonuses reflect this advantage. However, they can only be used fully by trained warriors.
 
 - `+1` : Using one heavy weapon (sword, axe, spear, etc) 
 - `+2` : Using two-handed weapon
@@ -116,7 +116,7 @@ If you are trained for any of them, you can apply those when appropriate. Any ad
 
 Examples:
 
-> Princess Vulnera wants to pull her weight in the defense of kingdom. She puts on leather armor (`+1`), takes a long sword (`+1`) and a shield (`+1`) and joins the ranks of battle, without being trained on how to us any of them. She gets a total combat bonus of only `+1`.
+> Princess Vulnera wants to pull her weight in the defense of kingdom. She puts on leather armor (`+1`), takes a long sword (`+1`) and a shield (`+1`) and joins the ranks of battle, without being trained in how to use any of them. She gets a total combat bonus of only `+1`.
 
 > Croogrin the goblin is trained to fight with a spear (`+1`) and shield (`+1`). He readies himself to fight the troll that has been invading his territory and puts on the only armor he can find. A heavy chain mail suit (`+2`). Since he has `heavy weapon training` and `shield training` he can get a `+2` bonus to his combat level. But since he does not have `heavy armor training` the chain mail and any other equipment advantage can give him at most an additional `+1` bonus. His total combat bonus is `+3`.
 
@@ -148,7 +148,7 @@ Happens when knife is held at throat, enough archers are aiming at character, et
 
 ### Wounded
 
-A wounded character has suffered a significant injury. It requires attention and deserves story time to deal with it. Until the injury has healed or has been statisfactorily treated a character is typically out of action, but might still interact socially.
+A wounded character has suffered a significant injury. It requires attention and deserves story time to deal with it. Until the injury has healed or has been satisfactorily treated a character is typically out of action, but might still interact socially.
 
 If a lead character has been wounded, the situation can be resolved by playing out three scenes that revolve around the situation, preferably involving three separate PCs. Examples:
 
@@ -163,7 +163,7 @@ Possible complications:
 - The character has been mortally injured and needs help quickly
 - There are no supplies available to sufficiently treat the character
 
-These and other complication can be introduced by the storyteller if he considers them worthwhile additions to the story.
+These and other complications can be introduced by the storyteller if he considers them worthwhile additions to the story.
 
 ### Death
 

@@ -41,7 +41,7 @@ You can command troops and organize attacks and defenses. Your ability to lead i
 
 ### Duelist
 
-You are trained in personal combat and excel in it. In a one on one fight you receive a +2 bonus to combat. This only extends to opponents between small and large size.
+You are trained in personal combat and excel in it. In a one-on-one fight you receive a +2 bonus to combat. This only extends to opponents between small and large size.
 
 ### Of the wild
 

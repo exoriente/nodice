@@ -2,7 +2,7 @@
 
 ## Rising in level
 
-Happens whenever the storyteller feels like it. He does neet to game an experience point system to make it happen. Typically happens as reward after completing one or more adventures.
+Happens whenever the storyteller feels like it. He does need to game an experience point system to make it happen. Typically happens as reward after completing one or more adventures.
 
 ### Increase skills
 
@@ -22,8 +22,8 @@ When the story leads to a character learning a new power or spell as a result of
 
 ### Learn now, pay later
 
-The character just learns the power or spells and can use it right away. The next time they rise in level they'll will have to acquire it the regular way.
+The character just learns the power or spells and can use it right away. The next time they rise in level they'll have to acquire it the regular way.
 
 ### Advance immediately
 
-Encountering an opportunity to learn something new, like learning from a sword master or decyphering the inscription in the ruined temple, can be a momentous occasion. Consider letting the character or characters advance to the next level on the spot. The fact that they encounter such opportunity for growth is a good indication for level advancement that fits well with the story.
+Encountering an opportunity to learn something new, like learning from a sword master or deciphering the inscription in the ruined temple, can be a momentous occasion. Consider letting the character or characters advance to the next level on the spot. The fact that they encounter such opportunity for growth is a good indication for level advancement that fits well with the story.
