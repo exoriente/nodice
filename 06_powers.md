@@ -70,7 +70,33 @@ You have a nose like a blood hound. This gives you a +2 bonus on tracking, detec
 
 ### Agile
 
+*Can't touch me.*
+
 +1 on melee combat when lightly armored on anticipated attacks
++1 on sneaking, climbing, acrobatics and similar activities
+
+### Dextrous
+
+
+
+### Youthful
+
+-1 on interaction when trying to excercise authority or leadership
++1 on interaction when asking for help or guidance
+
+### Tough
+
++1 on combat, when you are attacked by someone with higher total combat
+
+### Brainy
+
++1 on brainy forms of magic
++1 on brainy proficiency use
+1 extra power if already half or more of them are brainy
+
+### Charming
+
++2 on interaction, but only when meeting new people, during first scene
 
 ### Signature craft
 
@@ -114,6 +140,10 @@ You are trained in fighting with two weapons at the same time. When you wield tw
 
 You are capable of defending your allies in combat. You can force one additional combatant into combat with you if you have a higher combat level. This allows you to prevent others from being attacked by making yourself the focus of combat.
 
+#### Shield protector
+
+You can give someone adjacent to you a +1 on combat by defending them with your shield. This only works when the total combat level of that person is lower than yours. This gives you no adverse effect; you still have the bonus of your own shield as well.
+
 #### One man army
 
 You can take care of two opponents per round if you outclass them
@@ -122,6 +152,22 @@ You can take care of two opponents per round if you outclass them
 
 +1 with favorite weapon, -1 with other weapons. You can switch favorites when you rise in level.
 
+#### Point-blank shot
+
++2 on missile combat when firing at very short range. Can be used against opponents that close in on you for melee. Cannot be used while in melee.
+
+#### Barrage
+
+You can fire two arrows per round with a -2 on combat.
+
+#### Bow fighting
+
+You are able to use your bow and arrows as melee weapon if forced to do so. +0 on combat, instead of -3 penalty for being unarmed.
+
+#### Marksmanship
+
++1 on missile combat when you are not adjacent to melee or under fire.
+
 ---
 
 ## Stealth feats
@@ -129,6 +175,14 @@ You can take care of two opponents per round if you outclass them
 #### Sharp senses
 
 Detection and alertness checks are at character level.
+
+---
+
+## Mental feats
+
+#### Acute understanding
+
+You can quickly connect pieces of puzzles and correlate related events and phenomena. You are fast in solving puzzles and doing research.
 
 ---
 

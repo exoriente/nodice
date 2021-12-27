@@ -1,7 +1,5 @@
 # Spells
 
-
-
 ### Fireball
 
 - `Sorcery`
